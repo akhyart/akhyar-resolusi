@@ -1,7 +1,10 @@
 rencana berlajar
 
 -moodle
+ ^ web e-learning
 -wordpress
+ ^ web toko oneline
 -administrasi server
 -interview
 -vlogs
+-python
